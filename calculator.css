@@ -41,6 +41,7 @@ body {
 
 .calc-button:last-child {
     background-color: #df974c;
+    color: white;
 }
 
 .calc-button:last-child:hover {
